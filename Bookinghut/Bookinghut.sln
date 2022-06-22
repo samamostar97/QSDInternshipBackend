@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookinghut", "Bookinghut\Bookinghut.csproj", "{FC4EAD36-DB84-48CB-AA54-EF7294AA68FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookinghut.Model", "Bookinghut.Model\Bookinghut.Model.csproj", "{BBA9E66E-4569-420C-B7BA-7CF75226CB20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC4EAD36-DB84-48CB-AA54-EF7294AA68FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4EAD36-DB84-48CB-AA54-EF7294AA68FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4EAD36-DB84-48CB-AA54-EF7294AA68FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4EAD36-DB84-48CB-AA54-EF7294AA68FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA9E66E-4569-420C-B7BA-7CF75226CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA9E66E-4569-420C-B7BA-7CF75226CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA9E66E-4569-420C-B7BA-7CF75226CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA9E66E-4569-420C-B7BA-7CF75226CB20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC4D78A-E583-45A5-A03B-ABCD73F9038D}
+	EndGlobalSection
+EndGlobal

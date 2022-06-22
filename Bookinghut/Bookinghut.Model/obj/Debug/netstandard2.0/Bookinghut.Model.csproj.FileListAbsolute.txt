@@ -1,0 +1,68 @@
+C:\noviBQSD\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\noviBQSD\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\noviBQSD\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\noviBQSD\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\noviBQSD\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\noviBQSD\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\noviBQSD\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\noviBQSD\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\noviBQSD\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.AssemblyReference.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.AssemblyReference.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.AssemblyReference.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.AssemblyReference.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.AssemblyReference.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.deps.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\bin\Debug\netstandard2.0\Bookinghut.Model.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.AssemblyReference.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfoInputs.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.AssemblyInfo.cs
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut.Model\obj\Debug\netstandard2.0\Bookinghut.Model.pdb

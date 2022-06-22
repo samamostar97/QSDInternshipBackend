@@ -1,0 +1,543 @@
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.GeneratedMSBuildEditorConfig.editorconfig
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\noviBQSD\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\noviBQSD\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\Users\User\Documents\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Users\The Master\Source\Repos\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\Ispravi\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.GeneratedMSBuildEditorConfig.editorconfig
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\novoBack\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.GeneratedMSBuildEditorConfig.editorconfig
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\QSD\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Nest.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\QSD\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.exe
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.deps.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.runtimeconfig.dev.json
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\bin\Debug\netcoreapp3.1\Bookinghut.Model.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.AssemblyReference.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfoInputs.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.AssemblyInfo.cs
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\staticwebassets\Bookinghut.StaticWebAssets.xml
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bookinghut.styles.css
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.csproj.CopyComplete
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.dll
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.pdb
+C:\Users\User\Documents\QSDProject\QSDProject\Bookinghut\Bookinghut\obj\Debug\netcoreapp3.1\Bookinghut.genruntimeconfig.cache
